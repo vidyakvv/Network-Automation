@@ -3,6 +3,7 @@ This repo consists of python3 scripts for Network automation
 
 
 Netmiko :
+
 Scripts uses netmiko library to connect to multiple Cisco switches and sends
 set of commands in the 'commands_file.txt' to each switch
 
