@@ -12,4 +12,6 @@ to enter username and password
 
 The script handles exceptions while connecting instead of terminating the program
 
-devices_ip.txt consists device ip addresses to send commands to.
+devices_ip.txt consists device ip addresses to send commands to based on the version (Switch or router versions)
+
+Uses multithreading to improve time efficiency
